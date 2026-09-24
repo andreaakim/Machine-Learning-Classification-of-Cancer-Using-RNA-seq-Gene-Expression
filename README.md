@@ -1,1 +1,1 @@
-# Machine-Learning-Classification-of-Cancer-Using-RNA-seq-Gene-Expression
+# Machine Learning Classification of Cancer Using RNA-seq Gene Expression
